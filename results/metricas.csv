@@ -1,0 +1,5 @@
+modelo,RMSE,MAE,MAPE (%)
+Random Forest,3.1556,1.8194,0.1209
+XGBoost,3.5819,2.1535,0.1431
+Gradient Boosting,4.3368,3.2154,0.2138
+SARIMA,18.8569,16.5562,1.103
