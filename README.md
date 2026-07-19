@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Status](https://img.shields.io/badge/Estado-Completado-brightgreen)
 ![Models](https://img.shields.io/badge/Modelos-4-orange)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-lightgrey)
+![Dataset](https://img.shields.io/badge/Dataset-Kaggle-informational)
 
 Proyecto Final - Series Temporales
 Maestria en Inteligencia Artificial, FIUNA
